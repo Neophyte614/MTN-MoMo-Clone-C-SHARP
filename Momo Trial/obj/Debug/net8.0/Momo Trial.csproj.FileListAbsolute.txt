@@ -1,0 +1,42 @@
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.exe
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.deps.json
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.runtimeconfig.json
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.dll
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.pdb
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.dll
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\refint\Momo Trial.dll
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.pdb
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.genruntimeconfig.cache
+C:\Users\Kelvin\source\repos\Momo Trial\Momo Trial\obj\Debug\net8.0\ref\Momo Trial.dll
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.exe
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.deps.json
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.dll
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.pdb
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.dll
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\refint\Momo Trial.dll
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.pdb
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\Momo Trial\Momo Trial\obj\Debug\net8.0\ref\Momo Trial.dll
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.exe
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.deps.json
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.runtimeconfig.json
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.dll
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\bin\Debug\net8.0\Momo Trial.pdb
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfoInputs.cache
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.AssemblyInfo.cs
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.csproj.CoreCompileInputs.cache
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.dll
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\refint\Momo Trial.dll
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.pdb
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\Momo Trial.genruntimeconfig.cache
+C:\Users\kevin gates\Documents\Desktop Development\Momo Trial\Momo Trial\obj\Debug\net8.0\ref\Momo Trial.dll
